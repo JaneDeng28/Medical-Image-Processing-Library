@@ -3,6 +3,32 @@ Medical Image-Processing Library for Bone Fraction Image
 
 We plan to develop a deep learning model to classify medical diagnostic images of patient’s hand bone abnormal from those are normal. We decided to use dataset from bone X-Ray Deep Learning Competition of Stanford MURA ML: https://stanfordmlgroup.github.io/competitions/mura/
 
-Task will include data cleaning and selection, training model and classification method selection, and achieve an acceptable accuracy. Then a medical image-processing library will be built, and output will be whether the result is based on the image provided.
+### Tasks may include:
+- data cleaning and selection
+- Examine and understand data
+- Build an input pipeline
+- Build the model
+- Train the model
+- Test the model
+- Improve the model and repeat the process
+- ...
 
-Function may include: Load image from path, convert list X and y to array, test train split, create model, train the model, and plot accuracy.
+### Packages may include: 
+- tensorflow
+- numpy
+- pandas
+- matplotlib
+- torch
+- cv2
+- ...
+
+## Function may include:
+- Load/correct file path
+- Load image from path
+- Convert list X and y to array
+- Test train split
+- Build model
+- Train model
+- Plot accuracy
+
+#### A medical image-processing library will be built, output will be binary - whether the result is normal(negative) or abnormal(positive) based on the image provided
