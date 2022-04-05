@@ -34,5 +34,6 @@ Xianxin Zhu (xianxin.zhu@duke.edu)
 - Build model
 - Train model
 - Plot accuracy
+- ...
 
 #### A medical image-processing library will be built, output will be binary - whether the result is normal(negative) or abnormal(positive) based on the image provided
