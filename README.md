@@ -3,9 +3,9 @@ Medical Image-Processing Library for Bone Fraction Image
 
 We plan to develop a deep learning model to classify medical diagnostic images of patient’s hand bone abnormal from those are normal. We decided to use dataset from bone X-Ray Deep Learning Competition of Stanford MURA ML: https://stanfordmlgroup.github.io/competitions/mura/
 
-Author
+Author:\
 Jingwen Deng (jd472@duke.edu)\
-Xianxin Zhu (xianxin.zhu@duke.edu)\
+Xianxin Zhu (xianxin.zhu@duke.edu)
 
 ## Tasks may include:
 - data cleaning and selection
